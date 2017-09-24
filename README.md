@@ -1,6 +1,5 @@
 # heroku-app
-[![Build Status](https://travis-ci.org/natanaeladit/heroku.svg?branch=master)]
-(https://travis-ci.org/natanaeladit/heroku)
+[![Build Status](https://travis-ci.org/natanaeladit/heroku.svg?branch=master)](https://travis-ci.org/natanaeladit/heroku)
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnatanaeladit%2Fheroku.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnatanaeladit%2Fheroku?ref=badge_shield)
 
